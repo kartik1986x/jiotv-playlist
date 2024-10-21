@@ -1179,3 +1179,26 @@ http://mohitweb.zapto.org:7878/live/3157.m3u8
 http://mohitweb.zapto.org:7878/live/3158.m3u8
 #EXTINF:-1 tvg-id=3159 tvg-name="Pehla Pyaar - Less Than 1 Percent Chance" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/Pehla_Pyaar_LessThan_1PercentChance.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Pehla Pyaar - Less Than 1 Percent Chance
 http://mohitweb.zapto.org:7878/live/3159.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="DTH-News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png?imbypass=true" group-title="News",AajTak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="DTH-News",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:1 tvg-logo="https://bharatdev.s3.ap-south-1.amazonaws.com/media/cover-img-mobile/1674268441.png?v=5" group-title="DTH-News",Bharat 24
+https://legitpro.co.in/bharat24live/bharat24live/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="DTH-News",GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="DTH-News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="DTH-News",IBC-24
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="DTH-News",Sudarshan
+https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="DTH-News",Loksabha TV
+https://playhls.media.nic.in/live/lstv-360p/index.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="DTH-News",Rajyasabha
+https://hls.media.nic.in/live/rstv/index.m3u8
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="DTH-News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
